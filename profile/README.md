@@ -1,48 +1,54 @@
-# About Us
+<div align="center">
 
-![](https://making.close.com/static/close-collage-98741b61e25ef69b5e8d4d5129c839c2.jpg)
+# Neurange Nigeria Limited
 
-Elbon Concepts is a software design company that specializes in developing custom software solutions using the latest technologies. Our team of highly skilled developers has expertise in Node.js, Angular, PHP, Laravel, SQL, and other modern technologies.
+**One registered company. Four working disciplines.**
 
-## Our Services
+`RC 7045719` · Private Company Limited by Shares · Lagos, Nigeria · Incorporated 9 July 2023
 
-We offer a wide range of services including:
+[![Status](https://img.shields.io/badge/CAC%20Status-Active-1F4D3D?style=flat-square)](#)
+[![Registered](https://img.shields.io/badge/Registered-CAMA%202020-B08D3E?style=flat-square)](#)
+[![Location](https://img.shields.io/badge/Base-Lagos%2C%20Nigeria-0F1B2D?style=flat-square)](#)
 
-- Software design and development
-- Web development
-- Mobile app development
-- Database design and optimization
-- DevOps and cloud infrastructure management
-- Quality assurance and testing
-- Smart contract development on Ethereum blockchain
+</div>
 
-## Our Process
+---
 
-At Elbon Concepts, we follow a streamlined process to ensure that our clients receive the best possible results. Our process includes the following steps:
+### Who we are
 
-1. Requirement gathering and analysis
-2. Design and prototyping
-3. Development and implementation
-4. Testing and quality assurance
-5. Deployment and maintenance
+Neurange Nigeria Limited is a CAC-registered company built to remove a common friction for Nigerian businesses: needing several different, hard-to-verify vendors for a handful of related supply needs. We operate as **one accountable entity across four divisions**, so partners get a single contract, a single point of contact, and a public, verifiable incorporation record behind every engagement.
 
-## Our Technologies
+### Our divisions
 
-We use the latest technologies to provide the best possible solutions to our clients. Our technology stack includes:
+| Division | What it covers |
+|---|---|
+| 🛒 **Trading** | Sourcing and bulk commercial trading relationships with clean, verifiable paperwork |
+| 🖨️ **Printing Press** | Commercial print production — packaging, branded stationery, promotional material |
+| 🧴 **Detergent Production** | Manufactured cleaning products supplied at volume to retailers and institutions |
+| 📦 **General Merchandise** | Flexible supply of everyday goods for shops, offices, and distribution |
 
-- **C#**: ASP.NET, Entity Framework
-- **JavaScript**: Node.js, React.js
-- **TypeScript**: Angular, Next.js
-- **PHP**: Laravel, WordPress
-- **SQL**: Microsoft SQL Server, MySQL
-- **NoSQL**: MongoDB
-- **Blockchain Development**: Solidity, Ethereum, DLT
-- **Cloud Infrastructure**: AWS, Kubernetes, Docker
+### Why work with us
 
-## Contact Us
+- ✅ **Verifiable** — Certificate of Incorporation, TIN, and CAC status report are public record
+- ✅ **Accountable** — directors and shareholders are named on our official filings, not hidden behind a brand
+- ✅ **Consolidated** — one relationship can cover print, trading, detergent, and merchandise needs
+- ✅ **Rooted in Lagos industry** — based at the Lagos State Small Scale Industrial Estate, Mushin
 
-To learn more about how Elbon Concepts can help your business with custom software solutions, please contact us at:
+### Repositories
 
-- Email: [elbonconcepts@gmail.com](mailto:elbonconcepts@gmail.com)
-- Phone: [+234(0)902-577-8189](tel:+2349025778189)
-- Website: [https://www.elbonconcepts.com/](https://elbonconcepts.github.io/)
+| Repo | Description |
+|---|---|
+| [`landing-page`](https://neurange-nigeria-limited.github.io/) | Public-facing marketing site for the company |
+
+*(Add further repos here as they're created.)*
+
+### Get in touch
+
+📧 [neurangenigeria@gmail.com](mailto:neurangenigeria@gmail.com)
+📍 Lagos State Small Scale Industrial Estate, Fatai Atere Way, Mushin, Lagos State, Nigeria
+
+---
+
+<div align="center">
+<sub>Neurange Nigeria Limited · RC 7045719 · Registered under the Companies and Allied Matters Act, 2020</sub>
+</div>
