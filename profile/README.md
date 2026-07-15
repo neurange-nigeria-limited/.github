@@ -34,14 +34,6 @@ Neurange Nigeria Limited is a CAC-registered company built to remove a common fr
 - ✅ **Consolidated** — one relationship can cover print, trading, detergent, and merchandise needs
 - ✅ **Rooted in Lagos industry** — based at the Lagos State Small Scale Industrial Estate, Mushin
 
-### Repositories
-
-| Repo | Description |
-|---|---|
-| [`landing-page`](https://neurange-nigeria-limited.github.io/) | Public-facing marketing site for the company |
-
-*(Add further repos here as they're created.)*
-
 ### Get in touch
 
 📧 [neurange.ltd@gmail.com](mailto:neurange.ltd@gmail.com)
