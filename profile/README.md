@@ -44,7 +44,7 @@ Neurange Nigeria Limited is a CAC-registered company built to remove a common fr
 
 ### Get in touch
 
-📧 [neurangenigeria@gmail.com](mailto:neurangenigeria@gmail.com)
+📧 [neurange.ltd@gmail.com](mailto:neurange.ltd@gmail.com)
 📍 Lagos State Small Scale Industrial Estate, Fatai Atere Way, Mushin, Lagos State, Nigeria
 
 ---
